@@ -306,6 +306,12 @@ When you want to contribute code, please follow these steps:
 3. **Create a Pull Request:** Once you're ready and have tested your added code, submit a PR to the repo and we'll review as soon as possible.
 
 ## 💡 Questions or Suggestions?
+for i in {1..500}
+do
+  echo $i >> log.txt
+  git add .
+  git commit -m "commit $i"
+done
 
 Feel free to open an issue for questions, suggestions, or discussions related to this repository. For further discussion as well as a showcase of some community projects, check out the [Polymer developer forum](https://forum.polymerlabs.org).
 

@@ -318,8 +318,7 @@ git add .
 git commit -m "update"
 git add .
 git commit -m "update"
-
-Feel free to open an issue for questions, suggestions, or discussions related to this repository. For further discussion as well as a showcase of some community projects, check out the [Polymer developer forum](https://forum.polymerlabs.org).
+who are youFeel free to open an issue for questions, suggestions, or discussions related to this repository. For further discussion as well as a showcase of some community projects, check out the [Polymer developer forum](https://forum.polymerlabs.org).
 
 Thank you for being a part of our community!
 git add . → git commit -m "update"
